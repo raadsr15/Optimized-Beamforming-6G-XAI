@@ -1,3 +1,7 @@
+![Uploading Flux_Dev_A_futuristic_6G_IoT_operations_hub_with_a_sprawling_s_3.jpg…]()
+
+
+
 # 6G IoT Beamforming Classification with Explainable AI
 
 This project presents a complete machine learning pipeline to classify beamforming optimization outcomes in 6G Internet of Things (IoT) environments. Beamforming is critical in 6G networks to direct signal strength and improve communication quality for edge devices. The dataset used includes various environmental and device-specific features such as frequency band, signal strength, transmission power, and device type, with the goal of predicting whether beamforming was successfully optimized.
