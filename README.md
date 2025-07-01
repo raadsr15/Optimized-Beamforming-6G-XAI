@@ -137,6 +137,29 @@ Seven different classification models were trained using GridSearchCV and 10-fol
 
 These explainability tools provide deep insight into **why** the model made certain predictions—critical for trust in AI systems used in wireless network optimization.
 
+
+### 🧠 Explainability with XAI
+
+- **SHAP (SHapley Additive Explanations):**  
+   🔹 *Summary Plot:* Shows global feature importance.
+
+   ![SHAP Summary Plot](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/shap_summary_plot.png)
+
+   🔹 *Force Plot:* Visualizes feature contributions for individual predictions.
+
+   ![SHAP Force Plot](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/shap_force_plot_sample0.png)
+
+- **LIME (Local Interpretable Model-Agnostic Explanations):**  
+   🔸 *Sample-level Interpretation:* Explains why a particular test sample was classified as optimized or not.
+
+   ![LIME Explanation](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/lime_explanation_sample0.png)
+
+- **Tree-Based Feature Importance:**  
+   Tree-based feature importance measures how much each feature contributes to reducing impurity (e.g., Gini or entropy) across all decision trees in the model.
+
+   ![Feature Importance](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/feature_importance_barplot.png)
+
+These explainability tools provide deep insight into **why** the model made certain predictions—critical for trust in AI systems used in wireless network optimization.
 ---
 
 ---
