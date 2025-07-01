@@ -116,23 +116,39 @@ Seven different classification models were trained using GridSearchCV and 10-fol
 - **SHAP (SHapley Additive Explanations):**  
    🔹 *Summary Plot:* Shows global feature importance.
 
+
+
    ![image](https://github.com/user-attachments/assets/c9a0025b-e759-4e3f-a692-8d36e5f89547)
 
 
+
+
    🔹 *Force Plot:* Visualizes feature contributions for individual predictions.
+
+
  
    ![image](https://github.com/user-attachments/assets/98aafd4c-7bff-401b-bca7-29efcb4edbf5)
+
+  
 
     
 - **LIME (Local Interpretable Model-Agnostic Explanations):**  
    🔸 *Sample-level Interpretation:* Explains why a particular test sample was classified as optimized or not.
+
+  
  
    ![image](https://github.com/user-attachments/assets/779d2844-93bf-42b3-91f0-f667761aef3f)
+
+  
 
     
    🔸 *Tree Based Feature Importance:* Tree-based feature importance measures how much each feature contributes to reducing impurity (e.g., Gini or entropy) across all decision trees in the model.
 
+  
+
    ![image](https://github.com/user-attachments/assets/177cecd7-689e-4c12-acec-d0d86ec2a86f)
+
+
 
 
 These explainability tools provide deep insight into **why** the model made certain predictions—critical for trust in AI systems used in wireless network optimization.
