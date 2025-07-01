@@ -104,8 +104,7 @@ Seven different classification models were trained using GridSearchCV and 10-fol
 
   
 - **ROC-AUC Curve:** Shows model's ability to distinguish between optimized (1) and non-optimized (0) samples. This image represents the ROC-AUC Curve for the best performing model. The confusion matrices for all other models are present in the code       file.
-
-
+  
   ![image](https://github.com/user-attachments/assets/6881ed36-70ce-44e6-a442-7622af86b9f2)
 
 
