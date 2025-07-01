@@ -164,11 +164,23 @@ Follow the steps below to set up and run this project in your local environment.
 
 ---
 
-### 🔧 1. Clone the Repository
+###  1. Clone the Repository
 
 ```bash
 git clone https://github.com/raadsr15/6G-IoT-Beamforming-XAI.git
 cd 6G-IoT-Beamforming-XAI
+```
+
+### 2. Install dependencies:
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+### 3. Train the model and display results
+   
+```bash
+jupyter notebook 6G_IoT_Beamforming_classification_XAI.ipynb
 ```
 
 
