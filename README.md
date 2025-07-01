@@ -155,7 +155,20 @@ These explainability tools provide deep insight into **why** the model made cert
 
 
 
-These explainability tools provide deep insight into **why** the model made certain predictions—critical for trust in AI systems used in wireless network optimization.
 ---
 
+
+## ⚙️ Installation & Usage
+
+Follow the steps below to set up and run this project in your local environment.
+
 ---
+
+### 🔧 1. Clone the Repository
+
+```bash
+git clone https://github.com/raadsr15/6G-IoT-Beamforming-XAI.git
+cd 6G-IoT-Beamforming-XAI
+```
+
+
